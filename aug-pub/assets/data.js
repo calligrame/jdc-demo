@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:387328,
+	RANDOM:475956,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -67,6 +67,11 @@ var eBookData = {
 [15,{type:"youtube", id:"Youtube_11", name:"noname", visible:"true", x:"192", y:"531", width:"1251", height:"676", youtubeURL:"https://youtu.be/QQnd9x2Ruyo?si=AjLFwO16UaiaBvSX"}
 ],
 [19,{type:"imageSlider", id:"ImageSlider_7", name:"noname", visible:"true", x:"0", y:"1642", width:"1655", height:"934", mode:"slide", normalImage:"1754615912473.png", link:"address|_blank|", normalImage1:"1754616720700.png", link1:"address|_blank|", normalImage2:"1754615919010.png", link2:"address|_blank|", normalImage3:"1754616737200.png", link3:"address|_blank|", normalImage4:"1754616740414.png", link4:"address|_blank|", normalImage5:"1754616743767.png", link5:"address|_blank|", normalImage6:"1754616752547.png", link6:"address|_blank|", normalImage7:"1754616755735.png", link7:"address|_blank|", normalImage8:"1754616766179.png", link8:"address|_blank|"}
+],
+[20,{type:"image", id:"Image_46", name:"noname", visible:"true", x:"0", y:"1103", width:"1649", height:"1207", opacity:"100", normalImage:"1754636376933.png", rolloverImage:"", link:""},
+{type:"image", id:"Image_47", name:"noname", visible:"false", x:"0", y:"1090", width:"1655", height:"1218", opacity:"100", normalImage:"1754638726601.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_48", name:"noname", visible:"true", x:"0", y:"1101", width:"1649", height:"1204", opacity:"100", normalImage:"1754638751866.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_48", name:"액션Image_48", dispatcher:"Image_48", event:"onRelease", target:"Image_47", action:"toggleVisible"}
 ],
 [26,{type:"image", id:"Image_34", name:"noname", visible:"false", x:"0", y:"547", width:"1649", height:"1756", opacity:"100", normalImage:"1754534876481.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_34", name:"액션Image_34", dispatcher:"Image_34", event:"onRelease", target:"Youtube_8", action:"toggleVisible"},
