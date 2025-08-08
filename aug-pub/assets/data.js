@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:915780,
+	RANDOM:983629,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -52,7 +52,7 @@ var eBookData = {
 	pageContents : [ /** 페이지 컨텐츠 */
 		[3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""},
-{type:"video", id:"Video_4", name:"noname", visible:"true", x:"-200", y:"1", width:"2050", height:"2950", normalImage:"1754534343488.jpg", movieURL:"1754615425045.mp4"}
+{type:"video", id:"Video_4", name:"noname", visible:"true", x:"-200", y:"1", width:"2050", height:"2950", normalImage:"1754622512726.jpg", movieURL:"1754615425045.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"188", y:"2140", width:"180", height:"188", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"461", y:"2137", width:"194", height:"203", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
@@ -60,11 +60,11 @@ var eBookData = {
 {type:"image", id:"Image_4", name:"noname", visible:"true", x:"1016", y:"2124", width:"186", height:"194", opacity:"100", normalImage:"1752037731068.png", rolloverImage:"", link:"address|_blank|https://www.instagram.com/jdcenter_official/"},
 {type:"image", id:"Image_5", name:"noname", visible:"true", x:"176", y:"1655", width:"175", height:"183", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"}
 ],
-[8,{type:"video", id:"Video_5", name:"noname", visible:"true", x:"0", y:"1191", width:"1650", height:"1110", normalImage:"1754618036863.png", movieURL:"1754615466664.mp4"}
+[8,{type:"video", id:"Video_5", name:"noname", visible:"true", x:"0", y:"1242", width:"1655", height:"1007", normalImage:"1754618036863.png", movieURL:"1754615466664.mp4"}
 ],
-[11,{type:"image", id:"Image_33", name:"noname", visible:"true", x:"182", y:"1441", width:"1309", height:"918", opacity:"100", normalImage:"1754534529064.gif", rolloverImage:"", link:""}
+[11,{type:"image", id:"Image_33", name:"noname", visible:"false", x:"182", y:"1441", width:"1309", height:"918", opacity:"100", normalImage:"1754534529064.gif", rolloverImage:"", link:""}
 ],
-[15,{type:"youtube", id:"Youtube_11", name:"noname", visible:"true", x:"201", y:"530", width:"1452", height:"785", youtubeURL:"https://youtu.be/QQnd9x2Ruyo?si=AjLFwO16UaiaBvSX"}
+[15,{type:"youtube", id:"Youtube_11", name:"noname", visible:"true", x:"192", y:"531", width:"1251", height:"676", youtubeURL:"https://youtu.be/QQnd9x2Ruyo?si=AjLFwO16UaiaBvSX"}
 ],
 [19,{type:"imageSlider", id:"ImageSlider_7", name:"noname", visible:"true", x:"0", y:"1642", width:"1655", height:"934", mode:"slide", normalImage:"1754615912473.png", link:"address|_blank|", normalImage1:"1754616720700.png", link1:"address|_blank|", normalImage2:"1754615919010.png", link2:"address|_blank|", normalImage3:"1754616737200.png", link3:"address|_blank|", normalImage4:"1754616740414.png", link4:"address|_blank|", normalImage5:"1754616743767.png", link5:"address|_blank|", normalImage6:"1754616752547.png", link6:"address|_blank|", normalImage7:"1754616755735.png", link7:"address|_blank|", normalImage8:"1754616766179.png", link8:"address|_blank|"}
 ],
@@ -77,10 +77,6 @@ var eBookData = {
 [37,{type:"youtube", id:"Youtube_12", name:"noname", visible:"true", x:"0", y:"524", width:"1449", height:"806", youtubeURL:"https://youtu.be/MTgzK9gsdsU?si=6c0llRWR6XUyF4mW"}
 ],
 [38,{type:"imageSlider", id:"ImageSlider_8", name:"noname", visible:"true", x:"195", y:"531", width:"1459", height:"935", mode:"slide", normalImage:"1754617168379.png", link:"address|_blank|", normalImage1:"1754617171945.png", link1:"address|_blank|", normalImage2:"1754617174483.png", link2:"address|_blank|", normalImage3:"1754617176979.png", link3:"address|_blank|"}
-],
-[40,{type:"youtube", id:"Youtube_10", name:"noname", visible:"false", x:"0", y:"776", width:"1649", height:"957", youtubeURL:"https://youtu.be/snr_domwGko?si=CW8DNVN3BUXR-YTw"},
-{type:"image", id:"Image_35", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"2302", opacity:"100", normalImage:"1754535425101.png", rolloverImage:"", link:""},
-{type:"popModal", id:"popModal_Action_Image_35", name:"액션Image_35", dispatcher:"Image_35", event:"onRelease", target:"Youtube_10", action:"toggleVisible"}
 ],
 [49,{type:"image", id:"Image_39", name:"noname", visible:"true", x:"1079", y:"172", width:"404", height:"153", opacity:"100", normalImage:"1754554768882.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"},
 {type:"image", id:"Image_40", name:"noname", visible:"true", x:"1032", y:"2124", width:"462", height:"205", opacity:"100", normalImage:"1754554787292.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"}
