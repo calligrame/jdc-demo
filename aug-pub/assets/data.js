@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:475956,
+	RANDOM:613540,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -81,7 +81,7 @@ var eBookData = {
 ],
 [37,{type:"youtube", id:"Youtube_12", name:"noname", visible:"true", x:"0", y:"524", width:"1449", height:"806", youtubeURL:"https://youtu.be/MTgzK9gsdsU?si=6c0llRWR6XUyF4mW"}
 ],
-[38,{type:"imageSlider", id:"ImageSlider_8", name:"noname", visible:"true", x:"195", y:"531", width:"1459", height:"935", mode:"slide", normalImage:"1754617168379.png", link:"address|_blank|", normalImage1:"1754617171945.png", link1:"address|_blank|", normalImage2:"1754617174483.png", link2:"address|_blank|", normalImage3:"1754617176979.png", link3:"address|_blank|"}
+[38,{type:"imageSlider", id:"ImageSlider_8", name:"noname", visible:"true", x:"195", y:"506", width:"1459", height:"935", mode:"slide", normalImage:"1754617168379.png", link:"address|_blank|", normalImage1:"1754617171945.png", link1:"address|_blank|", normalImage2:"1754617174483.png", link2:"address|_blank|", normalImage3:"1754617176979.png", link3:"address|_blank|"}
 ],
 [49,{type:"image", id:"Image_39", name:"noname", visible:"true", x:"1079", y:"172", width:"404", height:"153", opacity:"100", normalImage:"1754554768882.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"},
 {type:"image", id:"Image_40", name:"noname", visible:"true", x:"1032", y:"2124", width:"462", height:"205", opacity:"100", normalImage:"1754554787292.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"}
