@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:499045,
+	RANDOM:696630,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -62,47 +62,53 @@ var eBookData = {
 ],
 [8,{type:"video", id:"Video_5", name:"noname", visible:"true", x:"0", y:"1242", width:"1655", height:"1007", normalImage:"1754618036863.png", movieURL:"1754615466664.mp4"}
 ],
-[11,{type:"image", id:"Image_33", name:"noname", visible:"true", x:"182", y:"1441", width:"1293", height:"907", opacity:"100", normalImage:"1754633564486.gif", rolloverImage:"", link:""}
+[11,{type:"image", id:"Image_33", name:"noname", visible:"true", x:"182", y:"1441", width:"1283", height:"900", opacity:"100", normalImage:"1754661797123.gif", rolloverImage:"", link:""}
 ],
 [15,{type:"youtube", id:"Youtube_11", name:"noname", visible:"true", x:"192", y:"531", width:"1251", height:"676", youtubeURL:"https://youtu.be/QQnd9x2Ruyo?si=AjLFwO16UaiaBvSX"}
 ],
 [19,{type:"imageSlider", id:"ImageSlider_7", name:"noname", visible:"true", x:"0", y:"1642", width:"1655", height:"934", mode:"slide", normalImage:"1754615912473.png", link:"address|_blank|", normalImage1:"1754616720700.png", link1:"address|_blank|", normalImage2:"1754615919010.png", link2:"address|_blank|", normalImage3:"1754616737200.png", link3:"address|_blank|", normalImage4:"1754616740414.png", link4:"address|_blank|", normalImage5:"1754616743767.png", link5:"address|_blank|", normalImage6:"1754616752547.png", link6:"address|_blank|", normalImage7:"1754616755735.png", link7:"address|_blank|", normalImage8:"1754616766179.png", link8:"address|_blank|"}
 ],
-[20,{type:"image", id:"Image_46", name:"noname", visible:"true", x:"0", y:"1103", width:"1649", height:"1207", opacity:"100", normalImage:"1754636376933.png", rolloverImage:"", link:""},
-{type:"image", id:"Image_47", name:"noname", visible:"false", x:"0", y:"1090", width:"1655", height:"1218", opacity:"100", normalImage:"1754638726601.gif", rolloverImage:"", link:""},
-{type:"image", id:"Image_48", name:"noname", visible:"true", x:"0", y:"1101", width:"1649", height:"1204", opacity:"100", normalImage:"1754638751866.png", rolloverImage:"", link:""},
-{type:"action", id:"Action_Image_48", name:"액션Image_48", dispatcher:"Image_48", event:"onRelease", target:"Image_47", action:"toggleVisible"}
+[20,{type:"image", id:"Image_46", name:"noname", visible:"true", x:"3", y:"1103", width:"1649", height:"1207", opacity:"100", normalImage:"1754636376933.png", rolloverImage:"", link:""},
+{type:"image", id:"Image_49", name:"noname", visible:"false", x:"5", y:"1210", width:"1649", height:"995", opacity:"100", normalImage:"1754658100674.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_48", name:"noname", visible:"true", x:"1", y:"1220", width:"1649", height:"974", opacity:"100", normalImage:"1754638751866.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_48", name:"액션Image_48", dispatcher:"Image_48", event:"onRelease", target:"Image_49", action:"toggleVisible"}
 ],
-[26,{type:"image", id:"Image_34", name:"noname", visible:"false", x:"0", y:"547", width:"1649", height:"1756", opacity:"100", normalImage:"1754534876481.png", rolloverImage:"", link:""},
-{type:"popModal", id:"popModal_Action_Image_34", name:"액션Image_34", dispatcher:"Image_34", event:"onRelease", target:"Youtube_8", action:"toggleVisible"},
-{type:"youtube", id:"Youtube_8", name:"noname", visible:"true", x:"0", y:"530", width:"1655", height:"1772", youtubeURL:"https://youtu.be/MDCtIX5wp28?si=fwfFSrVTRafNJrAQ"}
+[23,{type:"imageSlider", id:"ImageSlider_9", name:"noname", visible:"true", x:"197", y:"646", width:"1259", height:"752", mode:"slide", normalImage:"1754659029921.jpg", link:"address|_blank|", normalImage1:"1754659029960.jpg", link1:"address|_blank|"}
+],
+[24,{type:"imageSlider", id:"ImageSlider_10", name:"noname", visible:"true", x:"196", y:"1530", width:"1103", height:"789", mode:"slide", normalImage:"1754659273751.png", link:"address|_blank|", normalImage1:"1754659273793.png", link1:"address|_blank|"}
+],
+[26,{type:"youtube", id:"Youtube_8", name:"noname", visible:"false", x:"0", y:"530", width:"1655", height:"954", youtubeURL:"https://youtu.be/MDCtIX5wp28?si=fwfFSrVTRafNJrAQ"},
+{type:"image", id:"Image_34", name:"noname", visible:"true", x:"0", y:"534", width:"1649", height:"1271", opacity:"100", normalImage:"1754534876481.png", rolloverImage:"", link:""},
+{type:"popModal", id:"popModal_Action_Image_34", name:"액션Image_34", dispatcher:"Image_34", event:"onRelease", target:"Youtube_8", action:"toggleVisible"}
 ],
 [28,{type:"image", id:"Image_17", name:"noname", visible:"false", x:"0", y:"443", width:"1700", height:"1921", opacity:"100", normalImage:"1752042350586.png", rolloverImage:"", link:""}
 ],
+[30,{type:"imageSlider", id:"ImageSlider_11", name:"noname", visible:"true", x:"0", y:"515", width:"1456", height:"696", mode:"slide", normalImage:"1754660001220.jpg", link:"address|_blank|", normalImage1:"1754660001262.jpg", link1:"address|_blank|", normalImage2:"1754660001299.jpg", link2:"address|_blank|"}
+],
 [37,{type:"youtube", id:"Youtube_12", name:"noname", visible:"true", x:"0", y:"524", width:"1449", height:"806", youtubeURL:"https://youtu.be/MTgzK9gsdsU?si=6c0llRWR6XUyF4mW"}
 ],
-[38,{type:"imageSlider", id:"ImageSlider_8", name:"noname", visible:"true", x:"195", y:"506", width:"1459", height:"935", mode:"slide", normalImage:"1754617168379.png", link:"address|_blank|", normalImage1:"1754617171945.png", link1:"address|_blank|", normalImage2:"1754617174483.png", link2:"address|_blank|", normalImage3:"1754617176979.png", link3:"address|_blank|"}
+[38,{type:"imageSlider", id:"ImageSlider_8", name:"noname", visible:"true", x:"195", y:"1366", width:"1459", height:"935", mode:"slide", normalImage:"1754617168379.png", link:"address|_blank|", normalImage1:"1754617171945.png", link1:"address|_blank|", normalImage2:"1754617174483.png", link2:"address|_blank|", normalImage3:"1754617176979.png", link3:"address|_blank|"}
 ],
-[49,{type:"image", id:"Image_39", name:"noname", visible:"true", x:"1079", y:"172", width:"404", height:"153", opacity:"100", normalImage:"1754554768882.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"},
-{type:"image", id:"Image_40", name:"noname", visible:"true", x:"1032", y:"2124", width:"462", height:"205", opacity:"100", normalImage:"1754554787292.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStore.do?brandNm=lancome&brandCd=446"}
+[49,{type:"image", id:"Image_40", name:"noname", visible:"true", x:"253", y:"1416", width:"462", height:"205", opacity:"100", normalImage:"1754554787292.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/official/brandStoreDetail.do?brandNm=lancome&brandCd=446&GOOS_CD=1124462900035&CTGR_CD="}
 ],
-[51,{type:"image", id:"Image_41", name:"noname", visible:"true", x:"1043", y:"137", width:"446", height:"205", opacity:"100", normalImage:"1754554902488.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=271&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=271&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1386.7&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="},
-{type:"image", id:"Image_42", name:"noname", visible:"true", x:"881", y:"844", width:"416", height:"186", opacity:"100", normalImage:"1754554912916.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=271&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=271&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1386.7&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+[51,{type:"image", id:"Image_41", name:"noname", visible:"true", x:"406", y:"1568", width:"446", height:"205", opacity:"100", normalImage:"1754554902488.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=5126012900001"},
+{type:"image", id:"Image_42", name:"noname", visible:"true", x:"881", y:"844", width:"416", height:"186", opacity:"100", normalImage:"1754554912916.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1124192900019"}
 ],
 [52,{type:"image", id:"Image_29", name:"noname", visible:"true", x:"1066", y:"2117", width:"416", height:"206", opacity:"100", normalImage:"1752138056009.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=103733&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=103733&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1358.1&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
 ],
-[54,{type:"image", id:"Image_43", name:"noname", visible:"true", x:"167", y:"2120", width:"417", height:"213", opacity:"100", normalImage:"1754554992223.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=103728&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=103728&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1386.7&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+[53,{type:"image", id:"Image_54", name:"noname", visible:"true", x:"171", y:"1665", width:"413", height:"202", opacity:"100", normalImage:"1754660694212.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1266213001365"}
 ],
-[55,{type:"image", id:"Image_44", name:"noname", visible:"true", x:"158", y:"1064", width:"423", height:"183", opacity:"100", normalImage:"1754555068157.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=103728&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=103728&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1386.7&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+[54,{type:"image", id:"Image_43", name:"noname", visible:"true", x:"167", y:"2120", width:"417", height:"213", opacity:"100", normalImage:"1754554992223.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1263673000033"}
 ],
-[56,{type:"image", id:"Image_30", name:"noname", visible:"true", x:"1066", y:"130", width:"420", height:"179", opacity:"100", normalImage:"1752138171247.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=101572&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=101572&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1358.1&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="},
-{type:"image", id:"Image_45", name:"noname", visible:"true", x:"154", y:"1061", width:"433", height:"176", opacity:"100", normalImage:"1754555116117.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product.do?gnbCd=100056&type=020000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=&PROD_CD_LIST=100056&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=020000&PROD_TYPE=020000&REMT_RCV_EXCHR=1386.7&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+[55,{type:"image", id:"Image_44", name:"noname", visible:"true", x:"167", y:"1112", width:"423", height:"183", opacity:"100", normalImage:"1754555068157.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1263673000021"}
 ],
-[57,{type:"image", id:"Image_36", name:"noname", visible:"true", x:"1097", y:"43", width:"381", height:"209", opacity:"100", normalImage:"1754535915331.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/event/eventDetail.do?serNo=1000000560"}
+[56,{type:"image", id:"Image_45", name:"noname", visible:"true", x:"157", y:"1093", width:"433", height:"176", opacity:"100", normalImage:"1754555116117.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1265443001285"}
+],
+[57,{type:"image", id:"Image_36", name:"noname", visible:"true", x:"176", y:"1532", width:"381", height:"209", opacity:"100", normalImage:"1754535915331.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/event/eventDetail.do?serNo=1000000560"}
 ],
 [72,{type:"image", id:"Image_37", name:"noname", visible:"true", x:"0", y:"449", width:"1649", height:"1914", opacity:"100", normalImage:"1754633513538.gif", rolloverImage:"", link:""}
 ],
-[81,{type:"image", id:"Image_38", name:"noname", visible:"true", x:"1066", y:"725", width:"410", height:"157", opacity:"100", normalImage:"1754544262999.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"}
+[81,{type:"image", id:"Image_38", name:"noname", visible:"true", x:"1069", y:"725", width:"410", height:"157", opacity:"100", normalImage:"1754544262999.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"}
 ],
 [82,{type:"image", id:"Image_31", name:"", visible:"true", x:"560", y:"2029", width:"461", height:"205", opacity:"100", normalImage:"1752806517034.png", rolloverImage:"", link:"address|_blank|https://naver.me/5xa0nFXf"},
 {type:"image", id:"Image_32", name:"", visible:"true", x:"1068", y:"2046", width:"410", height:"176", opacity:"100", normalImage:"1753060080848.png", rolloverImage:"", link:"address|_blank|https://naver.me/Fbqui5dK"}
