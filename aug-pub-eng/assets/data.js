@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:86532,
+	RANDOM:879964,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -118,8 +118,8 @@ var eBookData = {
 ],
 [93,{type:"image", id:"Image_38", name:"noname", visible:"true", x:"1062", y:"660", width:"410", height:"157", opacity:"100", normalImage:"1754544262999.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"}
 ],
-[94,{type:"image", id:"Image_31", name:"", visible:"true", x:"560", y:"2029", width:"461", height:"205", opacity:"100", normalImage:"1752806517034.png", rolloverImage:"", link:"address|_blank|https://naver.me/5xa0nFXf"},
-{type:"image", id:"Image_32", name:"", visible:"true", x:"1068", y:"2046", width:"410", height:"176", opacity:"100", normalImage:"1753060080848.png", rolloverImage:"", link:"address|_blank|https://naver.me/Fbqui5dK"}
+[94,{type:"image", id:"Image_31", name:"", visible:"true", x:"560", y:"2029", width:"461", height:"205", opacity:"100", normalImage:"1752806517034.png", rolloverImage:"", link:"address|_blank|https://naver.me/FCr45wN3"},
+{type:"image", id:"Image_32", name:"", visible:"true", x:"1068", y:"2046", width:"410", height:"176", opacity:"100", normalImage:"1753060080848.png", rolloverImage:"", link:"address|_blank|https://naver.me/xHmDxF2J"}
 ],
 [96,{type:"image", id:"Image_27", name:"noname", visible:"true", x:"680", y:"2214", width:"312", height:"202", opacity:"100", normalImage:"1752111233778.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/main.cs"}
 ]],
