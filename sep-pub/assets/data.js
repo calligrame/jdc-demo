@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:126580,
+	RANDOM:438133,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -49,8 +49,12 @@ var eBookData = {
 		{index:"66",label:"모다들엉 마당",url:"",child:"0",id:"17",parent:"6"}],
 	
 	pageContents : [ /** 페이지 컨텐츠 */
-		[3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
+		[2,{type:"video", id:"Video_16", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756714480687.jpg", movieURL:"1756714464124.mp4"}
+],
+[3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""}
+],
+[4,{type:"video", id:"Video_17", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756714510890.jpg", movieURL:"1756714488393.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"188", y:"2140", width:"180", height:"188", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"461", y:"2137", width:"194", height:"203", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
@@ -58,16 +62,35 @@ var eBookData = {
 {type:"image", id:"Image_4", name:"noname", visible:"true", x:"1016", y:"2124", width:"186", height:"194", opacity:"100", normalImage:"1752037731068.png", rolloverImage:"", link:"address|_blank|https://www.instagram.com/jdcenter_official/"},
 {type:"image", id:"Image_5", name:"noname", visible:"true", x:"176", y:"1655", width:"175", height:"183", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"}
 ],
-[9,{type:"image", id:"Image_70", name:"noname", visible:"true", x:"0", y:"218", width:"1649", height:"2154", opacity:"100", normalImage:"1756706616266.gif", rolloverImage:"", link:""}
+[9,{type:"image", id:"Image_70", name:"noname", visible:"true", x:"0", y:"218", width:"1649", height:"2155", opacity:"100", normalImage:"1756711723829.gif", rolloverImage:"", link:""}
 ],
 [11,{type:"image", id:"Image_71", name:"noname", visible:"true", x:"5", y:"320", width:"1649", height:"1410", opacity:"100", normalImage:"1756706648994.gif", rolloverImage:"", link:""}
 ],
-[20,{type:"image", id:"Image_46", name:"noname", visible:"true", x:"3", y:"1103", width:"1649", height:"1207", opacity:"100", normalImage:"1754636376933.png", rolloverImage:"", link:""},
-{type:"image", id:"Image_49", name:"noname", visible:"false", x:"0", y:"1096", width:"1655", height:"1103", opacity:"100", normalImage:"1754875288696.gif", rolloverImage:"", link:""}
+[20,{type:"video", id:"Video_12", name:"noname", visible:"true", x:"0", y:"1896", width:"1655", height:"679", normalImage:"1756711999194.jpg", movieURL:"1756711978188.mp4"}
+],
+[21,{type:"video", id:"Video_13", name:"noname", visible:"true", x:"0", y:"379", width:"923", height:"516", normalImage:"1756712060317.jpg", movieURL:"1756712045090.mp4"},
+{type:"imageSlider", id:"ImageSlider_15", name:"noname", visible:"true", x:"941", y:"383", width:"713", height:"514", mode:"slide", normalImage:"1756712198187.jpg", link:"address|_blank|", normalImage1:"1756712198228.jpg", link1:"address|_blank|"}
+],
+[22,{type:"imageSlider", id:"ImageSlider_16", name:"noname", visible:"false", x:"642", y:"0", width:"1012", height:"653", mode:"slide", normalImage:"1756712320396.jpg", link:"address|_blank|", normalImage1:"1756712320437.jpg", link1:"address|_blank|", normalImage2:"1756712320475.jpg", link2:"address|_blank|"},
+{type:"image", id:"Image_81", name:"noname", visible:"true", x:"639", y:"0", width:"1009", height:"652", opacity:"100", normalImage:"1756712235989.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_81", name:"액션Image_81", dispatcher:"Image_81", event:"onRelease", target:"ImageSlider_16", action:"toggleVisible"}
+],
+[24,{type:"imageSlider", id:"ImageSlider_17", name:"noname", visible:"false", x:"-1", y:"700", width:"1655", height:"719", mode:"slide", normalImage:"1756712735163.jpg", link:"address|_blank|", normalImage1:"1756712735212.jpg", link1:"address|_blank|", normalImage2:"1756712735248.jpg", link2:"address|_blank|"},
+{type:"image", id:"Image_82", name:"noname", visible:"true", x:"0", y:"699", width:"1655", height:"719", opacity:"100", normalImage:"1756712516659.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_82", name:"액션Image_82", dispatcher:"Image_82", event:"onRelease", target:"ImageSlider_17", action:"toggleVisible"}
+],
+[26,{type:"video", id:"Video_14", name:"noname", visible:"true", x:"0", y:"931", width:"1655", height:"842", normalImage:"1756713190964.jpg", movieURL:"1756713129225.mp4"}
+],
+[28,{type:"imageSlider", id:"ImageSlider_18", name:"noname", visible:"true", x:"0", y:"1731", width:"1655", height:"844", mode:"slide", normalImage:"1756714698422.jpg", link:"address|_blank|", normalImage1:"1756714701829.jpg", link1:"address|_blank|"}
+],
+[29,{type:"image", id:"Image_83", name:"noname", visible:"true", x:"0", y:"1731", width:"1649", height:"844", opacity:"100", normalImage:"1756713219462.png", rolloverImage:"", link:""},
+{type:"imageSlider", id:"ImageSlider_19", name:"noname", visible:"true", x:"0", y:"1731", width:"1655", height:"844", mode:"slide", normalImage:"1756713592531.jpg", link:"address|_blank|", normalImage1:"1756713592564.jpg", link1:"address|_blank|", normalImage2:"1756713592599.jpg", link2:"address|_blank|", normalImage3:"1756713592631.jpg", link3:"address|_blank|", normalImage4:"1756713592665.jpg", link4:"address|_blank|", normalImage5:"1756713592698.jpg", link5:"address|_blank|", normalImage6:"1756713592731.jpg", link6:"address|_blank|"}
 ],
 [30,{type:"video", id:"Video_11", name:"noname", visible:"true", x:"0", y:"0", width:"819", height:"532", normalImage:"1756707553644.jpg", movieURL:"1756707447679.mp4"}
 ],
-[32,{type:"video", id:"Video_9", name:"noname", visible:"false", x:"5", y:"679", width:"1649", height:"1021", normalImage:"", movieURL:"1756707260277.mp4"},
+[31,{type:"video", id:"Video_15", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"532", normalImage:"1756713672321.jpg", movieURL:"1756713648330.mp4"}
+],
+[32,{type:"video", id:"Video_9", name:"noname", visible:"false", x:"5", y:"679", width:"1649", height:"1021", normalImage:"", movieURL:"1756709063419.mp4"},
 {type:"image", id:"Image_76", name:"noname", visible:"true", x:"0", y:"285", width:"1649", height:"1417", opacity:"100", normalImage:"1756707234492.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_76", name:"액션Image_76", dispatcher:"Image_76", event:"onRelease", target:"Video_9", action:"toggleVisible"}
 ],
@@ -81,6 +104,14 @@ var eBookData = {
 [39,{type:"youtube", id:"Youtube_15", name:"noname", visible:"false", x:"0", y:"743", width:"1649", height:"1286", youtubeURL:"https://youtu.be/Fzr2TReTeqE?si=nGCQNOG50fs9LD-W"},
 {type:"image", id:"Image_66", name:"noname", visible:"true", x:"0", y:"285", width:"1649", height:"1315", opacity:"100", normalImage:"1756692840328.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_66", name:"액션Image_66", dispatcher:"Image_66", event:"onRelease", target:"Youtube_15", action:"toggleVisible"}
+],
+[41,{type:"imageSlider", id:"ImageSlider_20", name:"noname", visible:"false", x:"0", y:"526", width:"1655", height:"642", mode:"slide", normalImage:"1756713979560.jpg", link:"address|_blank|", normalImage1:"1756713979598.jpg", link1:"address|_blank|", normalImage2:"1756713979632.jpg", link2:"address|_blank|", normalImage3:"1756713979666.jpg", link3:"address|_blank|"},
+{type:"image", id:"Image_84", name:"noname", visible:"true", x:"5", y:"527", width:"1649", height:"642", opacity:"100", normalImage:"1756713698758.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_84", name:"액션Image_84", dispatcher:"Image_84", event:"onRelease", target:"ImageSlider_20", action:"toggleVisible"}
+],
+[44,{type:"imageSlider", id:"ImageSlider_21", name:"noname", visible:"false", x:"0", y:"0", width:"1655", height:"894", mode:"slide", normalImage:"1756714247616.jpg", link:"address|_blank|", normalImage1:"1756714247651.jpg", link1:"address|_blank|", normalImage2:"1756714247687.jpg", link2:"address|_blank|"},
+{type:"image", id:"Image_85", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"894", opacity:"100", normalImage:"1756714113452.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_85", name:"액션Image_85", dispatcher:"Image_85", event:"onRelease", target:"ImageSlider_21", action:"toggleVisible"}
 ],
 [45,{type:"youtube", id:"Youtube_16", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"891", youtubeURL:"https://youtu.be/zH6YSDGiNro?si=pzdYppZVr7WtxnKO"}
 ],
