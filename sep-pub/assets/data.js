@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:818564,
+	RANDOM:45607,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -49,12 +49,12 @@ var eBookData = {
 		{index:"66",label:"모다들엉 마당",url:"",child:"0",id:"17",parent:"6"}],
 	
 	pageContents : [ /** 페이지 컨텐츠 */
-		[2,{type:"video", id:"Video_16", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756714480687.jpg", movieURL:"1756714464124.mp4"}
+		[2,{type:"video", id:"Video_16", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756717203382.jpg", movieURL:"1756714464124.mp4"}
 ],
 [3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""}
 ],
-[4,{type:"video", id:"Video_17", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756714510890.jpg", movieURL:"1756714488393.mp4"}
+[4,{type:"video", id:"Video_17", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"1548", normalImage:"1756717194487.jpg", movieURL:"1756714488393.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"188", y:"2140", width:"180", height:"188", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"461", y:"2137", width:"194", height:"203", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
@@ -97,7 +97,7 @@ var eBookData = {
 [33,{type:"image", id:"Image_79", name:"noname", visible:"true", x:"0", y:"285", width:"1649", height:"1417", opacity:"100", normalImage:"1756707234492.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_79", name:"액션Image_79", dispatcher:"Image_79", event:"onRelease", target:"Video_9", action:"toggleVisible"}
 ],
-[38,{type:"youtube", id:"Youtube_14", name:"noname", visible:"false", x:"0", y:"743", width:"1649", height:"1286", youtubeURL:"https://youtu.be/Fzr2TReTeqE?si=nGCQNOG50fs9LD-W"},
+[38,{type:"youtube", id:"Youtube_14", name:"noname", visible:"false", x:"0", y:"526", width:"1655", height:"642", youtubeURL:"https://youtu.be/Fzr2TReTeqE?si=nGCQNOG50fs9LD-W"},
 {type:"image", id:"Image_65", name:"noname", visible:"true", x:"0", y:"285", width:"1649", height:"1315", opacity:"100", normalImage:"1756692840328.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_65", name:"액션Image_65", dispatcher:"Image_65", event:"onRelease", target:"Youtube_14", action:"toggleVisible"}
 ],
@@ -128,7 +128,7 @@ var eBookData = {
 ],
 [65,{type:"image", id:"Image_75", name:"noname", visible:"true", x:"88", y:"1535", width:"1480", height:"821", opacity:"100", normalImage:"1756706710831.gif", rolloverImage:"", link:""}
 ],
-[66,{type:"image", id:"Image_62", name:"noname", visible:"true", x:"175", y:"2121", width:"321", height:"201", opacity:"100", normalImage:"1752138056009.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/prcenter/issue/notice.cs?action=view&artiId=36099"}
+[66,{type:"image", id:"Image_62", name:"noname", visible:"true", x:"533", y:"2137", width:"321", height:"201", opacity:"100", normalImage:"1752138056009.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/prcenter/issue/notice.cs?action=view&artiId=36099"}
 ],
 [71,{type:"image", id:"Image_38", name:"noname", visible:"true", x:"1069", y:"725", width:"410", height:"157", opacity:"100", normalImage:"1754544262999.png", rolloverImage:"", link:"address|_blank|https://pf.kakao.com/_xcuXxcb"},
 {type:"image", id:"Image_63", name:"noname", visible:"true", x:"1165", y:"1765", width:"262", height:"157", opacity:"100", normalImage:"1754544262999.png", rolloverImage:"", link:"address|_blank|https://naver.me/xVGGMzo9"}
