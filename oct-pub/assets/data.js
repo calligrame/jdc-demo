@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:137012,
+	RANDOM:149332,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -44,17 +44,17 @@ var eBookData = {
 		{index:"58",label:"Multiplay",url:"",child:"1",id:"5",parent:"0"},
 		{index:"58",label:"예술과 Thumb타기",url:"",child:"0",id:"14",parent:"5"},
 		{index:"66",label:"Beyond",url:"",child:"3",id:"6",parent:"0"},
-		{index:"66",label:"동반성장 리포트",url:"",child:"0",id:"16",parent:"6"},
+		{index:"66",label:"ESG 리포트",url:"",child:"0",id:"16",parent:"6"},
 		{index:"72",label:"돌담 올레 보듬응멍",url:"",child:"0",id:"17",parent:"6"},
 		{index:"84",label:"모다들엉 마당",url:"",child:"0",id:"18",parent:"6"}],
 	
 	pageContents : [ /** 페이지 컨텐츠 */
-		[2,{type:"video", id:"Video_24", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1838", normalImage:"1759211555502.jpg", movieURL:"1759220185893.mp4"}
+		[2,{type:"video", id:"Video_24", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1838", normalImage:"1759211555502.jpg", movieURL:"1759275204148.mp4"}
 ],
 [3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""}
 ],
-[4,{type:"video", id:"Video_25", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1839", normalImage:"1759211581731.jpg", movieURL:"1759220191838.mp4"}
+[4,{type:"video", id:"Video_25", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1839", normalImage:"1759211581731.jpg", movieURL:"1759275212915.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"188", y:"2140", width:"180", height:"188", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"461", y:"2137", width:"194", height:"203", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
@@ -64,14 +64,14 @@ var eBookData = {
 ],
 [10,{type:"imageSlider", id:"ImageSlider_22", name:"noname", visible:"true", x:"0", y:"1418", width:"1655", height:"882", mode:"slide", normalImage:"1759198515047.jpg", link:"address|_blank|", normalImage1:"1759198515088.jpg", link1:"address|_blank|", normalImage2:"1759198515120.jpg", link2:"address|_blank|"}
 ],
-[13,{type:"imageSlider", id:"ImageSlider_23", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"822", mode:"slide", normalImage:"1759199161883.jpg", link:"address|_blank|", normalImage1:"1759199161922.jpg", link1:"address|_blank|"}
+[13,{type:"imageSlider", id:"ImageSlider_37", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"755", mode:"slide", normalImage:"1759275592171.jpg", link:"address|_blank|", normalImage1:"1759275592218.jpg", link1:"address|_blank|"}
 ],
-[14,{type:"image", id:"Image_90", name:"noname", visible:"true", x:"1248", y:"964", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/jejugnbproduct.do?gnbCd=070000&type=070000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=PRD00066&PROD_CD=070000&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=070000&PROD_TYPE=070000&REMT_RCV_EXCHR=1411.6&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="},
-{type:"image", id:"Image_91", name:"noname", visible:"true", x:"1260", y:"1816", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/jejugnbproduct.do?gnbCd=070000&type=070000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=PRD00071&PROD_CD=070000&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=070000&PROD_TYPE=070000&REMT_RCV_EXCHR=1411.6&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+[14,{type:"image", id:"Image_90", name:"noname", visible:"true", x:"1248", y:"964", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|http://www.kbidi.or.kr/"},
+{type:"image", id:"Image_91", name:"noname", visible:"true", x:"1260", y:"1816", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://marohan.com/"}
 ],
 [15,{type:"image", id:"Image_92", name:"noname", visible:"true", x:"1241", y:"760", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.skinmdlab.com/"},
-{type:"image", id:"Image_93", name:"noname", visible:"true", x:"1240", y:"1428", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/jejugnbproduct.do?gnbCd=070000&type=070000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=PRD00067&PROD_CD=070000&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=070000&PROD_TYPE=070000&REMT_RCV_EXCHR=1411.6&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="},
-{type:"image", id:"Image_94", name:"noname", visible:"true", x:"1260", y:"2100", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/jejugnbproduct.do?gnbCd=070000&type=070000&PAGE_START=1&PAGE_END=12&ORDER=best&ICOPOS=PRD00068&PROD_CD=070000&CHK=notchecked&ALCO_AUCA_DT=N&ALCO_SRVC_AUCA_YN=N&PROD_TYPE123=070000&PROD_TYPE=070000&REMT_RCV_EXCHR=1411.6&SEARCH_CATE%5B%5D=&SEARCH_BRAN%5B%5D="}
+{type:"image", id:"Image_93", name:"noname", visible:"true", x:"1240", y:"1428", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.thepurelotus.com/"},
+{type:"image", id:"Image_94", name:"noname", visible:"true", x:"1260", y:"2100", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.dailish.co.kr/"}
 ],
 [16,{type:"youtube", id:"Youtube_25", name:"noname", visible:"true", x:"0", y:"1368", width:"1649", height:"933", youtubeURL:"https://youtu.be/Fi9OApRl43k?si=Wzlo0j7DMMfXDkna"}
 ],
@@ -142,6 +142,10 @@ var eBookData = {
 {type:"action", id:"Action_Image_115", name:"액션Image_115", dispatcher:"Image_115", event:"onRelease", target:"ImageSlider_35", action:"toggleVisible"}
 ],
 [77,{type:"video", id:"Video_21", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"943", normalImage:"1759206177030.jpg", movieURL:"1759212277624.mp4"}
+],
+[79,{type:"imageSlider", id:"ImageSlider_38", name:"noname", visible:"false", x:"0", y:"0", width:"1655", height:"845", mode:"slide", normalImage:"1759275802405.jpg", link:"address|_blank|", normalImage1:"1759275802448.jpg", link1:"address|_blank|"},
+{type:"image", id:"Image_124", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"845", opacity:"100", normalImage:"1759275779715.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_124", name:"액션Image_124", dispatcher:"Image_124", event:"onRelease", target:"ImageSlider_38", action:"toggleVisible"}
 ],
 [87,{type:"image", id:"Image_114", name:"noname", visible:"true", x:"1063", y:"718", width:"395", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://naver.me/xVGGMzo9"}
 ],
