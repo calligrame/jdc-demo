@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:333780,
+	RANDOM:137012,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -34,27 +34,27 @@ var eBookData = {
 		{index:"-1",label:"root",url:"",child:"5",id:"0",parent:"-1"},
 		{index:"8",label:"Touch",url:"",child:"3",id:"2",parent:"0"},
 		{index:"8",label:"JDC 비전웨이브",url:"",child:"0",id:"7",parent:"2"},
-		{index:"14",label:"人site 테이블",url:"",child:"0",id:"8",parent:"2"},
-		{index:"20",label:"터에서 치르다",url:"",child:"0",id:"9",parent:"2"},
-		{index:"26",label:"Hybrid",url:"",child:"2",id:"3",parent:"0"},
-		{index:"26",label:"I'll land, 글로벌",url:"",child:"0",id:"10",parent:"3"},
-		{index:"32",label:"人site 테이블2",url:"",child:"0",id:"19",parent:"3"},
-		{index:"38",label:"Unique",url:"",child:"2",id:"4",parent:"0"},
-		{index:"38",label:"함께하는 JDC",url:"",child:"0",id:"12",parent:"4"},
-		{index:"46",label:"JDC 컬렉션",url:"",child:"0",id:"13",parent:"4"},
-		{index:"54",label:"Multiplay",url:"",child:"1",id:"5",parent:"0"},
-		{index:"54",label:"예술과 Thumb타기",url:"",child:"0",id:"14",parent:"5"},
-		{index:"60",label:"Beyond",url:"",child:"2",id:"6",parent:"0"},
-		{index:"60",label:"ESG 리포트",url:"",child:"0",id:"16",parent:"6"},
-		{index:"66",label:"모다들엉 마당",url:"",child:"0",id:"17",parent:"6"}],
+		{index:"16",label:"터에서 치르다",url:"",child:"0",id:"8",parent:"2"},
+		{index:"26",label:"터에서 치르다2",url:"",child:"0",id:"9",parent:"2"},
+		{index:"32",label:"Hybrid",url:"",child:"1",id:"3",parent:"0"},
+		{index:"32",label:"I'll land, 글로벌",url:"",child:"0",id:"10",parent:"3"},
+		{index:"42",label:"Unique",url:"",child:"2",id:"4",parent:"0"},
+		{index:"42",label:"함께하는 JDC",url:"",child:"0",id:"12",parent:"4"},
+		{index:"48",label:"JDC 컬렉션",url:"",child:"0",id:"13",parent:"4"},
+		{index:"58",label:"Multiplay",url:"",child:"1",id:"5",parent:"0"},
+		{index:"58",label:"예술과 Thumb타기",url:"",child:"0",id:"14",parent:"5"},
+		{index:"66",label:"Beyond",url:"",child:"3",id:"6",parent:"0"},
+		{index:"66",label:"동반성장 리포트",url:"",child:"0",id:"16",parent:"6"},
+		{index:"72",label:"돌담 올레 보듬응멍",url:"",child:"0",id:"17",parent:"6"},
+		{index:"84",label:"모다들엉 마당",url:"",child:"0",id:"18",parent:"6"}],
 	
 	pageContents : [ /** 페이지 컨텐츠 */
-		[2,{type:"video", id:"Video_24", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1838", normalImage:"1759211555502.jpg", movieURL:"1759211542801.mp4"}
+		[2,{type:"video", id:"Video_24", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1838", normalImage:"1759211555502.jpg", movieURL:"1759220185893.mp4"}
 ],
 [3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""}
 ],
-[4,{type:"video", id:"Video_25", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1839", normalImage:"1759211581731.jpg", movieURL:"1759211567369.mp4"}
+[4,{type:"video", id:"Video_25", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"1839", normalImage:"1759211581731.jpg", movieURL:"1759220191838.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"188", y:"2140", width:"180", height:"188", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"461", y:"2137", width:"194", height:"203", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
@@ -77,9 +77,13 @@ var eBookData = {
 ],
 [18,{type:"imageSlider", id:"ImageSlider_24", name:"noname", visible:"true", x:"0", y:"481", width:"1649", height:"927", mode:"slide", normalImage:"1759199847434.JPG", link:"address|_blank|", normalImage1:"1759199847480.JPG", link1:"address|_blank|", normalImage2:"1759199847515.JPG", link2:"address|_blank|", normalImage3:"1759199847550.JPG", link3:"address|_blank|", normalImage4:"1759199847584.JPG", link4:"address|_blank|", normalImage5:"1759199847620.JPG", link5:"address|_blank|", normalImage6:"1759199847658.JPG", link6:"address|_blank|", normalImage7:"1759199847698.JPG", link7:"address|_blank|", normalImage8:"1759199847735.JPG", link8:"address|_blank|", normalImage9:"1759199847769.JPG", link9:"address|_blank|", normalImage10:"1759199847804.JPG", link10:"address|_blank|", normalImage11:"1759199847843.JPG", link11:"address|_blank|", normalImage12:"1759199847881.JPG", link12:"address|_blank|", normalImage13:"1759199847917.JPG", link13:"address|_blank|", normalImage14:"1759199847957.JPG", link14:"address|_blank|"}
 ],
+[21,{type:"image", id:"Image_119", name:"noname", visible:"true", x:"78", y:"195", width:"1492", height:"1468", opacity:"100", normalImage:"1759219421896.gif", rolloverImage:"", link:""}
+],
 [26,{type:"video", id:"Video_18", name:"noname", visible:"true", x:"0", y:"521", width:"1655", height:"936", normalImage:"1759200141057.jpg", movieURL:"1759211634170.mp4"}
 ],
 [28,{type:"imageSlider", id:"ImageSlider_26", name:"noname", visible:"true", x:"-1", y:"1423", width:"1655", height:"881", mode:"slide", normalImage:"1759200418899.jpg", link:"address|_blank|", normalImage1:"1759200418933.jpg", link1:"address|_blank|", normalImage2:"1759200418965.jpg", link2:"address|_blank|", normalImage3:"1759200418997.jpg", link3:"address|_blank|"}
+],
+[30,{type:"image", id:"Image_118", name:"noname", visible:"true", x:"67", y:"445", width:"1521", height:"1941", opacity:"100", normalImage:"1759219389338.gif", rolloverImage:"", link:""}
 ],
 [32,{type:"video", id:"Video_19", name:"noname", visible:"false", x:"0", y:"869", width:"1649", height:"1021", normalImage:"", movieURL:"1759211603541.mp4"},
 {type:"image", id:"Image_96", name:"noname", visible:"true", x:"1", y:"880", width:"1649", height:"1417", opacity:"100", normalImage:"1759200574866.png", rolloverImage:"", link:""},
@@ -128,6 +132,10 @@ var eBookData = {
 ],
 [66,{type:"image", id:"Image_62", name:"noname", visible:"true", x:"175", y:"2121", width:"321", height:"201", opacity:"100", normalImage:"1752138056009.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/prcenter/issue/notice.cs?action=view&artiId=36099"},
 {type:"image", id:"Image_113", name:"noname", visible:"true", x:"956", y:"2153", width:"512", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.jeju-sp.com/notifications/cnotice.htm?qType=title&q=%EB%82%A9%ED%92%88%EB%8C%80%EA%B8%88&act=view&seq=64510"}
+],
+[68,{type:"image", id:"Image_121", name:"noname", visible:"true", x:"156", y:"510", width:"1313", height:"652", opacity:"100", normalImage:"1759219541829.gif", rolloverImage:"", link:""}
+],
+[70,{type:"imageSlider", id:"ImageSlider_36", name:"noname", visible:"true", x:"70", y:"221", width:"1522", height:"2174", mode:"slide", normalImage:"1759219456263.gif", link:"address|_blank|"}
 ],
 [76,{type:"imageSlider", id:"ImageSlider_35", name:"noname", visible:"true", x:"716", y:"0", width:"932", height:"930", mode:"slide", normalImage:"1759205959365.jpg", link:"address|_blank|", normalImage1:"1759206074850.jpg", link1:"address|_blank|"},
 {type:"image", id:"Image_115", name:"noname", visible:"true", x:"721", y:"0", width:"932", height:"930", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:""},
@@ -242,8 +250,8 @@ var eBookData = {
 	indexTabList : [ /** 인덱스탭 목록 */
 		{textBold:"", useIndex:"true", text:"", width:"100", shadow:"true", radius_TL:"0", radius_TR:"0", radius_BR:"0", radius_BL:"0", txalign:"left", textHeight:"12"},
 		{text:"Touch", textColor:"0xffffff,100", backgroundColor:"0x00b0f0,100", link:"8"},
-		{text:"Hybrid", textColor:"0xffffff,100", backgroundColor:"0x114fa4,100", link:"26"},
-		{text:"Unique", textColor:"0xffffff,100", backgroundColor:"0x1114a4,100", link:"38"},
-		{text:"Multiplay", textColor:"0xffffff,100", backgroundColor:"0x00b050,100", link:"54"},
-		{text:"Beyond", textColor:"0xffffff,100", backgroundColor:"0x4d1c7c,100", link:"60"}]
+		{text:"Hybrid", textColor:"0xffffff,100", backgroundColor:"0x114fa4,100", link:"32"},
+		{text:"Unique", textColor:"0xffffff,100", backgroundColor:"0x1114a4,100", link:"42"},
+		{text:"Multiplay", textColor:"0xffffff,100", backgroundColor:"0x00b050,100", link:"58"},
+		{text:"Beyond", textColor:"0xffffff,100", backgroundColor:"0x4d1c7c,100", link:"66"}]
 	};
