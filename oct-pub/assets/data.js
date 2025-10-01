@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:206610,
+	RANDOM:457237,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -66,12 +66,12 @@ var eBookData = {
 ],
 [13,{type:"imageSlider", id:"ImageSlider_37", name:"noname", visible:"true", x:"0", y:"0", width:"1655", height:"755", mode:"slide", normalImage:"1759275592171.jpg", link:"address|_blank|", normalImage1:"1759275592218.jpg", link1:"address|_blank|"}
 ],
-[14,{type:"image", id:"Image_90", name:"noname", visible:"true", x:"1248", y:"964", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|http://www.kbidi.or.kr/"},
-{type:"image", id:"Image_91", name:"noname", visible:"true", x:"1260", y:"1816", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://marohan.com/"}
+[14,{type:"image", id:"Image_90", name:"noname", visible:"true", x:"1299", y:"967", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|http://www.kbidi.or.kr/"},
+{type:"image", id:"Image_91", name:"noname", visible:"true", x:"1298", y:"1822", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://marohan.com/"}
 ],
-[15,{type:"image", id:"Image_92", name:"noname", visible:"true", x:"1241", y:"760", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.skinmdlab.com/"},
-{type:"image", id:"Image_93", name:"noname", visible:"true", x:"1240", y:"1428", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.thepurelotus.com/"},
-{type:"image", id:"Image_94", name:"noname", visible:"true", x:"1260", y:"2100", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.dailish.co.kr/"}
+[15,{type:"image", id:"Image_92", name:"noname", visible:"true", x:"1315", y:"753", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.skinmdlab.com/"},
+{type:"image", id:"Image_93", name:"noname", visible:"true", x:"1317", y:"1428", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.thepurelotus.com/"},
+{type:"image", id:"Image_94", name:"noname", visible:"true", x:"1308", y:"2100", width:"212", height:"163", opacity:"100", normalImage:"1759199294979.png", rolloverImage:"", link:"address|_blank|https://www.dailish.co.kr/"}
 ],
 [16,{type:"youtube", id:"Youtube_25", name:"noname", visible:"true", x:"0", y:"1368", width:"1649", height:"933", youtubeURL:"https://youtu.be/Fi9OApRl43k?si=Wzlo0j7DMMfXDkna"}
 ],
