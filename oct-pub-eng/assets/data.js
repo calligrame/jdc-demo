@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:919770,
+	RANDOM:78145,
 	
 	
 	bookList : [ /** 이전호 목록 */
