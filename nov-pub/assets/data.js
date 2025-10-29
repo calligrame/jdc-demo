@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:463221,
+	RANDOM:942685,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -64,17 +64,17 @@ var eBookData = {
 ],
 [11,{type:"youtube", id:"Youtube_26", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"908", youtubeURL:"https://youtu.be/y61dpoWJyCA?si=zb46pcsTH34YlvxQ"}
 ],
-[13,{type:"youtube", id:"Youtube_27", name:"noname", visible:"true", x:"0", y:"1662", width:"1649", height:"929", youtubeURL:"https://youtu.be/AR_FEU-TwQw?si=G6ci1QYNFp0rZ43S"}
+[13,{type:"youtube", id:"Youtube_27", name:"noname", visible:"true", x:"0", y:"1662", width:"1649", height:"929", youtubeURL:"https://youtu.be/AR_FEU-TwQw?si=lFXmhi5Iy1Az1g2m"}
 ],
 [14,{type:"imageSlider", id:"ImageSlider_39", name:"noname", visible:"false", x:"0", y:"0", width:"1655", height:"910", mode:"slide", normalImage:"1761712180615.jpg", link:"address|_blank|", normalImage1:"1761712180650.jpg", link1:"address|_blank|", normalImage2:"1761712180686.jpg", link2:"address|_blank|"},
 {type:"image", id:"Image_141", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"910", opacity:"100", normalImage:"1761712040639.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_141", name:"액션Image_141", dispatcher:"Image_141", event:"onRelease", target:"ImageSlider_39", action:"toggleVisible"}
 ],
-[15,{type:"youtube", id:"Youtube_28", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"913", youtubeURL:"https://www.youtube.com/watch?v=krbmy9HsBb4"}
+[15,{type:"youtube", id:"Youtube_28", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"913", youtubeURL:"https://youtu.be/krbmy9HsBb4?si=hKhXuQ-adiTIoeyC"}
 ],
 [22,{type:"video", id:"Video_26", name:"noname", visible:"true", x:"0", y:"521", width:"1649", height:"930", normalImage:"1761711074611.jpg", movieURL:"1761711062741.mp4"}
 ],
-[30,{type:"youtube", id:"Youtube_29", name:"noname", visible:"false", x:"0", y:"867", width:"1649", height:"1319", youtubeURL:"https://m.youtube.com/watch?v=WcOb_U0LRzA"},
+[30,{type:"youtube", id:"Youtube_29", name:"noname", visible:"false", x:"0", y:"867", width:"1649", height:"1319", youtubeURL:"https://youtu.be/WcOb_U0LRzA?si=YUxkcdbhX23R0bhG"},
 {type:"image", id:"Image_128", name:"noname", visible:"true", x:"0", y:"877", width:"1649", height:"1423", opacity:"100", normalImage:"1761711095103.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_128", name:"액션Image_128", dispatcher:"Image_128", event:"onRelease", target:"Youtube_29", action:"toggleVisible"}
 ],
@@ -93,9 +93,9 @@ var eBookData = {
 {type:"image", id:"Image_144", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"932", opacity:"100", normalImage:"1761712910942.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_144", name:"액션Image_144", dispatcher:"Image_144", event:"onRelease", target:"ImageSlider_40", action:"toggleVisible"}
 ],
-[43,{type:"youtube", id:"Youtube_31", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"933", youtubeURL:"https://www.youtube.com/watch?v=lTRzJImWJYU"}
+[43,{type:"youtube", id:"Youtube_31", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"933", youtubeURL:"https://youtu.be/lTRzJImWJYU?si=CmUQdBEQC8TetWc0"}
 ],
-[45,{type:"youtube", id:"Youtube_30", name:"noname", visible:"true", x:"0", y:"831", width:"1649", height:"911", youtubeURL:"https://youtu.be/epUo21YAkwQ?si=4J4F6S3PV2xrBRGt"}
+[45,{type:"youtube", id:"Youtube_30", name:"noname", visible:"true", x:"0", y:"831", width:"1649", height:"911", youtubeURL:"https://youtu.be/epUo21YAkwQ?si=pC8bg1kl-3azlY97"}
 ],
 [56,{type:"video", id:"Video_28", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"2054", normalImage:"1761713255043.jpg", movieURL:"1761713185680.mp4"}
 ],
