@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:266705,
+	RANDOM:274336,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -74,6 +74,9 @@ var eBookData = {
 ],
 [22,{type:"video", id:"Video_26", name:"noname", visible:"true", x:"0", y:"521", width:"1649", height:"930", normalImage:"1761711074611.jpg", movieURL:"1761711062741.mp4"}
 ],
+[26,{type:"image", id:"Image_145", name:"noname", visible:"false", x:"5", y:"532", width:"1649", height:"873", opacity:"100", normalImage:"1761808271994.png", rolloverImage:"", link:""},
+{type:"imageSlider", id:"ImageSlider_42", name:"noname", visible:"true", x:"0", y:"523", width:"1655", height:"887", mode:"slide", normalImage:"1761808755161.jpg", link:"address|_blank|", normalImage1:"1761808755191.jpg", link1:"address|_blank|", normalImage2:"1761808755224.jpg", link2:"address|_blank|", normalImage3:"1761808755259.jpg", link3:"address|_blank|", normalImage4:"1761808755278.jpg", link4:"address|_blank|", normalImage5:"1761808755329.jpg", link5:"address|_blank|", normalImage6:"1761808755360.jpg", link6:"address|_blank|", normalImage7:"1761808755390.jpg", link7:"address|_blank|"}
+],
 [30,{type:"youtube", id:"Youtube_29", name:"noname", visible:"false", x:"0", y:"867", width:"1649", height:"1319", youtubeURL:"https://youtu.be/WcOb_U0LRzA?si=YUxkcdbhX23R0bhG"},
 {type:"image", id:"Image_128", name:"noname", visible:"true", x:"0", y:"877", width:"1649", height:"1423", opacity:"100", normalImage:"1761711095103.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_128", name:"액션Image_128", dispatcher:"Image_128", event:"onRelease", target:"Youtube_29", action:"toggleVisible"}
@@ -89,9 +92,9 @@ var eBookData = {
 {type:"image", id:"Image_140", name:"noname", visible:"true", x:"0", y:"528", width:"1649", height:"1370", opacity:"100", normalImage:"1761711969117.png", rolloverImage:"", link:""},
 {type:"popModal", id:"popModal_Action_Image_140", name:"액션Image_140", dispatcher:"Image_140", event:"onRelease", target:"Video_27", action:"toggleVisible"}
 ],
-[42,{type:"imageSlider", id:"ImageSlider_40", name:"noname", visible:"false", x:"0", y:"0", width:"1655", height:"932", mode:"slide", normalImage:"1761713054713.jpg", link:"address|_blank|", normalImage1:"1761713054776.jpg", link1:"address|_blank|", normalImage2:"1761713054898.jpg", link2:"address|_blank|"},
+[42,{type:"imageSlider", id:"ImageSlider_41", name:"noname", visible:"false", x:"0", y:"0", width:"1649", height:"927", mode:"slide", normalImage:"1761808165159.jpg", link:"address|_blank|", normalImage1:"1761808165224.jpg", link1:"address|_blank|", normalImage2:"1761808165324.jpg", link2:"address|_blank|"},
 {type:"image", id:"Image_144", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"932", opacity:"100", normalImage:"1761712910942.png", rolloverImage:"", link:""},
-{type:"action", id:"Action_Image_144", name:"액션Image_144", dispatcher:"Image_144", event:"onRelease", target:"ImageSlider_40", action:"toggleVisible"}
+{type:"action", id:"Action_Image_144", name:"액션Image_144", dispatcher:"Image_144", event:"onRelease", target:"ImageSlider_41", action:"toggleVisible"}
 ],
 [43,{type:"youtube", id:"Youtube_31", name:"noname", visible:"true", x:"0", y:"0", width:"1649", height:"933", youtubeURL:"https://youtu.be/lTRzJImWJYU?si=CmUQdBEQC8TetWc0"}
 ],
