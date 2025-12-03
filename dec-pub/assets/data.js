@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:506880,
+	RANDOM:533040,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -50,12 +50,12 @@ var eBookData = {
 		{index:"80",label:"모다들엉 마당",url:"",child:"0",id:"18",parent:"6"}],
 	
 	pageContents : [ /** 페이지 컨텐츠 */
-		[2,{type:"video", id:"Video_35", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"921", normalImage:"1764656923248.jpg", movieURL:"1764741934257.mp4"}
+		[2,{type:"video", id:"Video_35", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"921", normalImage:"1764656923248.jpg", movieURL:"1764745692806.mp4"}
 ],
 [3,{type:"audio", id:"Audio_1", name:"noname", visible:"false", x:"149", y:"165", width:"483", height:"77", musicURL:"1752109528002.mp3"},
 {type:"image", id:"Image_28", name:"noname", visible:"false", x:"89", y:"98", width:"927", height:"71", opacity:"100", normalImage:"1752122260603.png", rolloverImage:"", link:""}
 ],
-[4,{type:"video", id:"Video_34", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"917", normalImage:"1764656900287.jpg", movieURL:"1764741941552.mp4"}
+[4,{type:"video", id:"Video_34", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"917", normalImage:"1764656900287.jpg", movieURL:"1764745698911.mp4"}
 ],
 [6,{type:"image", id:"Image_1", name:"noname", visible:"true", x:"95", y:"1073", width:"84", height:"87", opacity:"100", normalImage:"1752037593393.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/channel/UCWjXz8g_5xqbtYWWmi1z2xw"},
 {type:"image", id:"Image_2", name:"noname", visible:"true", x:"505", y:"1064", width:"95", height:"99", opacity:"100", normalImage:"1752037678226.png", rolloverImage:"", link:"address|_blank|https://blog.naver.com/jdcenter1"},
