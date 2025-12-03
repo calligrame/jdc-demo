@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:233102,
+	RANDOM:783877,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -88,13 +88,49 @@ var eBookData = {
 {type:"image", id:"Image_155", name:"noname", visible:"true", x:"0", y:"464", width:"825", height:"685", opacity:"100", normalImage:"1764653219245.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_155", name:"액션Image_155", dispatcher:"Image_155", event:"onRelease", target:"ImageSlider_44", action:"toggleVisible"}
 ],
+[35,{type:"imageSlider", id:"ImageSlider_46", name:"noname", visible:"false", x:"0", y:"0", width:"825", height:"496", mode:"slide", normalImage:"1764723051034.jpg", link:"address|_blank|", normalImage1:"1764723051080.jpg", link1:"address|_blank|", normalImage2:"1764723051117.jpg", link2:"address|_blank|", normalImage3:"1764723051156.jpg", link3:"address|_blank|", normalImage4:"1764723051196.jpg", link4:"address|_blank|"},
+{type:"image", id:"Image_163", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"494", opacity:"100", normalImage:"1764722173197.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_163", name:"액션Image_163", dispatcher:"Image_163", event:"onRelease", target:"ImageSlider_46", action:"toggleVisible"}
+],
+[36,{type:"imageSlider", id:"ImageSlider_47", name:"noname", visible:"false", x:"0", y:"72", width:"825", height:"440", mode:"slide", normalImage:"1764723083633.jpg", link:"address|_blank|", normalImage1:"1764723083686.jpg", link1:"address|_blank|", normalImage2:"1764723083726.jpg", link2:"address|_blank|", normalImage3:"1764723083765.jpg", link3:"address|_blank|", normalImage4:"1764723083804.jpg", link4:"address|_blank|", normalImage5:"1764723083845.jpg", link5:"address|_blank|"},
+{type:"image", id:"Image_164", name:"noname", visible:"true", x:"0", y:"72", width:"825", height:"440", opacity:"100", normalImage:"1764722173197.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_164", name:"액션Image_164", dispatcher:"Image_164", event:"onRelease", target:"ImageSlider_47", action:"toggleVisible"}
+],
+[37,{type:"imageSlider", id:"ImageSlider_48", name:"noname", visible:"false", x:"0", y:"72", width:"825", height:"440", mode:"slide", normalImage:"1764723117094.jpg", link:"address|_blank|", normalImage1:"1764723117137.jpg", link1:"address|_blank|", normalImage2:"1764723117173.jpg", link2:"address|_blank|", normalImage3:"1764723117216.jpg", link3:"address|_blank|", normalImage4:"1764723117253.jpg", link4:"address|_blank|", normalImage5:"1764723117289.jpg", link5:"address|_blank|"},
+{type:"image", id:"Image_165", name:"noname", visible:"true", x:"0", y:"72", width:"825", height:"440", opacity:"100", normalImage:"1764722173197.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_165", name:"액션Image_165", dispatcher:"Image_165", event:"onRelease", target:"ImageSlider_48", action:"toggleVisible"}
+],
 [40,{type:"image", id:"Image_146", name:"noname", visible:"true", x:"0", y:"488", width:"825", height:"674", opacity:"100", normalImage:"1764650140712.gif", rolloverImage:"", link:""}
 ],
+[41,{type:"imageSlider", id:"ImageSlider_53", name:"noname", visible:"false", x:"0", y:"0", width:"825", height:"431", mode:"slide", normalImage:"1764725349471.jpg", link:"address|_blank|", normalImage1:"1764725349510.jpg", link1:"address|_blank|", normalImage2:"1764725349544.jpg", link2:"address|_blank|", normalImage3:"1764725349578.jpg", link3:"address|_blank|", normalImage4:"1764725349611.jpg", link4:"address|_blank|", normalImage5:"1764725349653.jpg", link5:"address|_blank|", normalImage6:"1764725349696.jpg", link6:"address|_blank|", normalImage7:"1764725349735.jpg", link7:"address|_blank|", normalImage8:"1764725349775.jpg", link8:"address|_blank|"},
+{type:"image", id:"Image_172", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"431", opacity:"100", normalImage:"1764723673068.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_172", name:"액션Image_172", dispatcher:"Image_172", event:"onRelease", target:"ImageSlider_53", action:"toggleVisible"}
+],
 [42,{type:"youtube", id:"Youtube_34", name:"noname", visible:"true", x:"0", y:"263", width:"825", height:"463", youtubeURL:"https://youtu.be/B8qifz8Pjec?si=A155WQ37f59MngAu"}
+],
+[43,{type:"imageSlider", id:"ImageSlider_54", name:"noname", visible:"false", x:"0", y:"263", width:"825", height:"465", mode:"slide", normalImage:"1764725379397.jpg", link:"address|_blank|", normalImage1:"1764725379435.jpg", link1:"address|_blank|", normalImage2:"1764725379468.jpg", link2:"address|_blank|", normalImage3:"1764725379502.jpg", link3:"address|_blank|", normalImage4:"1764725379538.jpg", link4:"address|_blank|", normalImage5:"1764725379574.jpg", link5:"address|_blank|", normalImage6:"1764725379609.jpg", link6:"address|_blank|", normalImage7:"1764725379644.jpg", link7:"address|_blank|"},
+{type:"image", id:"Image_171", name:"noname", visible:"true", x:"0", y:"263", width:"825", height:"465", opacity:"100", normalImage:"1764724947723.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_171", name:"액션Image_171", dispatcher:"Image_171", event:"onRelease", target:"ImageSlider_54", action:"toggleVisible"}
 ],
 [52,{type:"imageSlider", id:"ImageSlider_45", name:"noname", visible:"false", x:"0", y:"263", width:"825", height:"892", mode:"slide", normalImage:"1764654755287.jpg", link:"address|_blank|", normalImage1:"1764654755322.jpg", link1:"address|_blank|", normalImage2:"1764654755353.jpg", link2:"address|_blank|", normalImage3:"1764654755404.jpg", link3:"address|_blank|", normalImage4:"1764654755446.jpg", link4:"address|_blank|", normalImage5:"1764654755479.jpg", link5:"address|_blank|", normalImage6:"1764654755509.jpg", link6:"address|_blank|", normalImage7:"1764654755544.jpg", link7:"address|_blank|", normalImage8:"1764654755588.jpg", link8:"address|_blank|"},
 {type:"image", id:"Image_156", name:"noname", visible:"true", x:"0", y:"263", width:"825", height:"886", opacity:"100", normalImage:"1764654425741.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_156", name:"액션Image_156", dispatcher:"Image_156", event:"onRelease", target:"ImageSlider_45", action:"toggleVisible"}
+],
+[54,{type:"image", id:"Image_166", name:"noname", visible:"true", x:"0", y:"864", width:"825", height:"420", opacity:"100", normalImage:"1764723210435.png", rolloverImage:"", link:""},
+{type:"imageSlider", id:"ImageSlider_49", name:"noname", visible:"true", x:"0", y:"865", width:"825", height:"420", mode:"slide", normalImage:"1764724544003.jpg", link:"address|_blank|", normalImage1:"1764724544048.jpg", link1:"address|_blank|"}
+],
+[55,{type:"image", id:"Image_167", name:"noname", visible:"true", x:"0", y:"416", width:"825", height:"386", opacity:"100", normalImage:"1764723210435.png", rolloverImage:"", link:""}
+],
+[56,{type:"image", id:"Image_168", name:"noname", visible:"true", x:"0", y:"847", width:"825", height:"440", opacity:"100", normalImage:"1764723673068.png", rolloverImage:"", link:""},
+{type:"imageSlider", id:"ImageSlider_50", name:"noname", visible:"true", x:"0", y:"847", width:"825", height:"440", mode:"slide", normalImage:"1764724598392.jpg", link:"address|_blank|", normalImage1:"1764724598437.jpg", link1:"address|_blank|", normalImage2:"1764724598478.jpg", link2:"address|_blank|", normalImage3:"1764724598510.jpg", link3:"address|_blank|", normalImage4:"1764724598548.jpg", link4:"address|_blank|", normalImage5:"1764724598594.jpg", link5:"address|_blank|"}
+],
+[58,{type:"imageSlider", id:"ImageSlider_51", name:"noname", visible:"false", x:"0", y:"0", width:"825", height:"448", mode:"slide", normalImage:"1764724634095.jpg", link:"address|_blank|", normalImage1:"1764724634141.jpg", link1:"address|_blank|", normalImage2:"1764724634175.jpg", link2:"address|_blank|", normalImage3:"1764724634208.jpg", link3:"address|_blank|", normalImage4:"1764724634241.jpg", link4:"address|_blank|"},
+{type:"image", id:"Image_169", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"448", opacity:"100", normalImage:"1764723673068.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_169", name:"액션Image_169", dispatcher:"Image_169", event:"onRelease", target:"ImageSlider_51", action:"toggleVisible"}
+],
+[59,{type:"imageSlider", id:"ImageSlider_52", name:"noname", visible:"false", x:"0", y:"0", width:"825", height:"448", mode:"slide", normalImage:"1764724667227.jpg", link:"address|_blank|", normalImage1:"1764724667266.jpg", link1:"address|_blank|", normalImage2:"1764724667298.jpg", link2:"address|_blank|", normalImage3:"1764724667330.jpg", link3:"address|_blank|", normalImage4:"1764724667364.jpg", link4:"address|_blank|", normalImage5:"1764724667398.jpg", link5:"address|_blank|", normalImage6:"1764724667432.jpg", link6:"address|_blank|"},
+{type:"image", id:"Image_170", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"448", opacity:"100", normalImage:"1764723673068.png", rolloverImage:"", link:""},
+{type:"action", id:"Action_Image_170", name:"액션Image_170", dispatcher:"Image_170", event:"onRelease", target:"ImageSlider_52", action:"toggleVisible"}
 ],
 [61,{type:"video", id:"Video_30", name:"noname", visible:"true", x:"0", y:"685", width:"825", height:"470", normalImage:"1764655732249.jpg", movieURL:"1764655559451.mp4"}
 ],
@@ -104,6 +140,9 @@ var eBookData = {
 {type:"video", id:"Video_32", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"465", normalImage:"1764655777890.jpg", movieURL:"1764655765410.mp4"}
 ],
 [66,{type:"video", id:"Video_33", name:"noname", visible:"true", x:"0", y:"160", width:"825", height:"464", normalImage:"1764655797609.jpg", movieURL:"1764655785782.mp4"}
+],
+[77,{type:"image", id:"Image_173", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"445", opacity:"100", normalImage:"1764725547626.png", rolloverImage:"", link:""},
+{type:"imageSlider", id:"ImageSlider_56", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"445", mode:"slide", normalImage:"1764725978801.jpg", link:"address|_blank|", normalImage1:"1764725978835.jpg", link1:"address|_blank|", normalImage2:"1764725978866.jpg", link2:"address|_blank|", normalImage3:"1764725978899.jpg", link3:"address|_blank|", normalImage4:"1764725978931.jpg", link4:"address|_blank|", normalImage5:"1764725978962.jpg", link5:"address|_blank|", normalImage6:"1764725978997.jpg", link6:"address|_blank|", normalImage7:"1764725979031.jpg", link7:"address|_blank|", normalImage8:"1764725979065.jpg", link8:"address|_blank|", normalImage9:"1764725999762.jpg", link9:"address|_blank|", normalImage10:"1764726009927.jpg", link10:"address|_blank|"}
 ],
 [79,{type:"image", id:"Image_157", name:"noname", visible:"true", x:"454", y:"1093", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://culture.seogwipo.go.kr/citrus/index.htm"},
 {type:"image", id:"Image_158", name:"noname", visible:"true", x:"609", y:"1093", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://www.instagram.com/6sot_official/"}
