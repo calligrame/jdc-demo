@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:92557,
+	RANDOM:277291,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -142,10 +142,10 @@ var eBookData = {
 ],
 [82,{type:"image", id:"Image_159", name:"noname", visible:"true", x:"87", y:"145", width:"191", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/ebook_eng/202511/index.html#page=1"}
 ],
-[83,{type:"image", id:"Image_160", name:"noname", visible:"true", x:"429", y:"924", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/5YSRqKgF"},
-{type:"image", id:"Image_161", name:"noname", visible:"true", x:"589", y:"921", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/xQiXPain"}
+[83,{type:"image", id:"Image_160", name:"noname", visible:"true", x:"429", y:"924", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/xVGkVOku"},
+{type:"image", id:"Image_161", name:"noname", visible:"true", x:"589", y:"921", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/G8hVJLfm"}
 ],
-[84,{type:"image", id:"Image_162", name:"noname", visible:"true", x:"571", y:"860", width:"170", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/GsouCQUI"}
+[84,{type:"image", id:"Image_162", name:"noname", visible:"true", x:"571", y:"860", width:"170", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/Grek0XCP"}
 ],
 [86,{type:"image", id:"Image_27", name:"noname", visible:"true", x:"307", y:"1109", width:"219", height:"130", opacity:"100", normalImage:"1752111233778.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/main.cs"}
 ]],
