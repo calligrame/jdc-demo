@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:151881,
+	RANDOM:634832,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -88,7 +88,7 @@ var eBookData = {
 {type:"image", id:"Image_207", name:"noname", visible:"true", x:"0", y:"73", width:"825", height:"402", opacity:"100", normalImage:"1769572604787.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_207", name:"액션Image_207", dispatcher:"Image_207", event:"onRelease", target:"ImageSlider_64", action:"toggleVisible"}
 ],
-[29,{type:"video", id:"Video_38", name:"noname", visible:"true", x:"0", y:"263", width:"825", height:"524", normalImage:"1769568572890.png", movieURL:"1769584729612.mp4"}
+[29,{type:"video", id:"Video_38", name:"noname", visible:"true", x:"0", y:"263", width:"825", height:"524", normalImage:"1769568572890.png", movieURL:"1769589755774.mp4"}
 ],
 [30,{type:"video", id:"Video_37", name:"noname", visible:"true", x:"0", y:"266", width:"825", height:"461", normalImage:"1769568550119.png", movieURL:"1769568534757.mp4"}
 ],
@@ -130,6 +130,8 @@ var eBookData = {
 [51,{type:"imageSlider", id:"ImageSlider_68", name:"noname", visible:"true", x:"102", y:"0", width:"725", height:"522", mode:"slide", normalImage:"1769574249881.png", link:"address|_blank|", normalImage1:"1769574249922.png", link1:"address|_blank|", normalImage2:"1769574249958.png", link2:"address|_blank|"}
 ],
 [54,{type:"image", id:"Image_189", name:"noname", visible:"true", x:"97", y:"574", width:"678", height:"591", opacity:"100", normalImage:"1769566222822.gif", rolloverImage:"", link:""}
+],
+[57,{type:"image", id:"Image_220", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"404", opacity:"100", normalImage:"1769589719044.gif", rolloverImage:"", link:""}
 ],
 [60,{type:"imageSlider", id:"ImageSlider_60", name:"noname", visible:"false", x:"0", y:"0", width:"825", height:"441", mode:"slide", normalImage:"1767326135414.jpg", link:"address|_blank|", normalImage1:"1767326135457.jpg", link1:"address|_blank|", normalImage2:"1767326135497.jpg", link2:"address|_blank|", normalImage3:"1767326135534.jpg", link3:"address|_blank|", normalImage4:"1767326135575.jpg", link4:"address|_blank|", normalImage5:"1767326135615.jpg", link5:"address|_blank|"},
 {type:"image", id:"Image_185", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"441", opacity:"100", normalImage:"1767322363134.png", rolloverImage:"", link:""},
