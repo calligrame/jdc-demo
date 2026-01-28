@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:634832,
+	RANDOM:512169,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -218,8 +218,8 @@ var eBookData = {
 	indexTabList : [ /** 인덱스탭 목록 */
 		{textBold:"", useIndex:"true", text:"", width:"100", shadow:"true", radius_TL:"0", radius_TR:"0", radius_BR:"0", radius_BL:"0", txalign:"left", textHeight:"12"},
 		{text:"Touch", textColor:"0xffffff,100", backgroundColor:"0x00b0f0,100", link:"8"},
-		{text:"Hybrid", textColor:"0xffffff,100", backgroundColor:"0x114fa4,100", link:"40"},
-		{text:"Unique", textColor:"0xffffff,100", backgroundColor:"0x1114a4,100", link:"46"},
-		{text:"Multiplay", textColor:"0xffffff,100", backgroundColor:"0x00b050,100", link:"58"},
-		{text:"Beyond", textColor:"0xffffff,100", backgroundColor:"0x4d1c7c,100", link:"64"}]
+		{text:"Hybrid", textColor:"0xffffff,100", backgroundColor:"0x114fa4,100", link:"32"},
+		{text:"Unique", textColor:"0xffffff,100", backgroundColor:"0x1114a4,100", link:"38"},
+		{text:"Multiplay", textColor:"0xffffff,100", backgroundColor:"0x00b050,100", link:"48"},
+		{text:"Beyond", textColor:"0xffffff,100", backgroundColor:"0x4d1c7c,100", link:"54"}]
 	};
