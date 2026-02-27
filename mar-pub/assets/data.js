@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:91258,
+	RANDOM:504877,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -91,7 +91,7 @@ var eBookData = {
 [31,{type:"image", id:"Image_244", name:"noname", visible:"true", x:"0", y:"0", width:"736", height:"533", opacity:"100", normalImage:"1772178906980.gif", rolloverImage:"", link:""},
 {type:"image", id:"Image_245", name:"noname", visible:"true", x:"619", y:"537", width:"140", height:"140", opacity:"100", normalImage:"1772178918002.gif", rolloverImage:"", link:""}
 ],
-[33,{type:"image", id:"Image_246", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"1186", opacity:"100", normalImage:"1772178971179.gif", rolloverImage:"", link:""}
+[33,{type:"image", id:"Image_246", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"1188", opacity:"100", normalImage:"1772181128050.gif", rolloverImage:"", link:""}
 ],
 [42,{type:"image", id:"Image_233", name:"noname", visible:"true", x:"0", y:"0", width:"822", height:"1062", opacity:"100", normalImage:"1772091248076.gif", rolloverImage:"", link:""}
 ],
