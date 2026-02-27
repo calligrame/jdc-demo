@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:897740,
+	RANDOM:91258,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -81,6 +81,17 @@ var eBookData = {
 ],
 [19,{type:"image", id:"Image_221", name:"noname", visible:"true", x:"228", y:"1067", width:"135", height:"95", opacity:"100", normalImage:"1752037709367.png", rolloverImage:"", link:"address|_blank|http://www.puruni.com/jdc"},
 {type:"image", id:"Image_222", name:"noname", visible:"true", x:"383", y:"1075", width:"131", height:"95", opacity:"100", normalImage:"1752037709367.png", rolloverImage:"", link:"address|_blank|https://www.youtube.com/@lab9745"}
+],
+[27,{type:"image", id:"Image_240", name:"noname", visible:"true", x:"0", y:"0", width:"727", height:"502", opacity:"100", normalImage:"1772178818275.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_241", name:"noname", visible:"true", x:"528", y:"524", width:"199", height:"94", opacity:"100", normalImage:"1772178833204.gif", rolloverImage:"", link:""}
+],
+[29,{type:"image", id:"Image_242", name:"noname", visible:"true", x:"-51", y:"0", width:"782", height:"584", opacity:"100", normalImage:"1772178863933.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_243", name:"noname", visible:"true", x:"599", y:"611", width:"127", height:"102", opacity:"100", normalImage:"1772178880369.gif", rolloverImage:"", link:""}
+],
+[31,{type:"image", id:"Image_244", name:"noname", visible:"true", x:"0", y:"0", width:"736", height:"533", opacity:"100", normalImage:"1772178906980.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_245", name:"noname", visible:"true", x:"619", y:"537", width:"140", height:"140", opacity:"100", normalImage:"1772178918002.gif", rolloverImage:"", link:""}
+],
+[33,{type:"image", id:"Image_246", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"1186", opacity:"100", normalImage:"1772178971179.gif", rolloverImage:"", link:""}
 ],
 [42,{type:"image", id:"Image_233", name:"noname", visible:"true", x:"0", y:"0", width:"822", height:"1062", opacity:"100", normalImage:"1772091248076.gif", rolloverImage:"", link:""}
 ],
