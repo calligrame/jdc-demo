@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:370459,
+	RANDOM:315755,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -135,16 +135,17 @@ var eBookData = {
 ],
 [52,{type:"image", id:"Image_257", name:"noname", visible:"true", x:"0", y:"898", width:"825", height:"278", opacity:"100", normalImage:"1775010072110.gif", rolloverImage:"", link:""}
 ],
-[55,{type:"image", id:"Image_258", name:"noname", visible:"true", x:"2", y:"927", width:"825", height:"253", opacity:"100", normalImage:"1775010093876.gif", rolloverImage:"", link:""}
+[55,{type:"image", id:"Image_258", name:"noname", visible:"true", x:"2", y:"934", width:"825", height:"253", opacity:"100", normalImage:"1775010093876.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_274", name:"noname", visible:"true", x:"0", y:"933", width:"50", height:"253", opacity:"100", normalImage:"1775018624752.jpg", rolloverImage:"", link:""}
 ],
 [60,{type:"imageSlider", id:"ImageSlider_89", name:"noname", visible:"true", x:"0", y:"933", width:"731", height:"354", mode:"slide", normalImage:"1775014362071.jpg", link:"address|_blank|", normalImage1:"1775014362113.jpg", link1:"address|_blank|", normalImage2:"1775014362146.jpg", link2:"address|_blank|", normalImage3:"1775014362182.jpg", link3:"address|_blank|", normalImage4:"1775014362219.jpg", link4:"address|_blank|"}
 ],
 [61,{type:"imageSlider", id:"ImageSlider_90", name:"noname", visible:"true", x:"99", y:"830", width:"728", height:"456", mode:"slide", normalImage:"1775014448339.jpg", link:"address|_blank|", normalImage1:"1775014448385.jpg", link1:"address|_blank|", normalImage2:"1775014448427.jpg", link2:"address|_blank|"}
 ],
-[62,{type:"image", id:"Image_159", name:"noname", visible:"true", x:"211", y:"777", width:"191", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/ebook/202602/index.html"}
+[62,{type:"image", id:"Image_159", name:"noname", visible:"true", x:"211", y:"777", width:"191", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/ebook/202603/index.html"}
 ],
-[65,{type:"image", id:"Image_190", name:"noname", visible:"true", x:"90", y:"1066", width:"145", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/GZD7O9xb"},
-{type:"image", id:"Image_191", name:"noname", visible:"true", x:"253", y:"1064", width:"145", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/5SKc6Ddo"}
+[65,{type:"image", id:"Image_190", name:"noname", visible:"true", x:"90", y:"1066", width:"145", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/5xgNLrxa"},
+{type:"image", id:"Image_191", name:"noname", visible:"true", x:"253", y:"1064", width:"145", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/xgXeuJSA"}
 ],
 [66,{type:"image", id:"Image_162", name:"noname", visible:"true", x:"593", y:"519", width:"138", height:"92", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://naver.me/GsouCQUI"}
 ],
