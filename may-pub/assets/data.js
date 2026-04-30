@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:170718,
+	RANDOM:113783,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -64,7 +64,7 @@ var eBookData = {
 [10,{type:"image", id:"Image_276", name:"noname", visible:"true", x:"0", y:"798", width:"822", height:"375", opacity:"100", normalImage:"1777531004967.jpg", rolloverImage:"", link:""},
 {type:"image", id:"Image_277", name:"noname", visible:"true", x:"5", y:"787", width:"816", height:"379", opacity:"100", normalImage:"1777531013900.gif", rolloverImage:"", link:""}
 ],
-[13,{type:"imageSlider", id:"ImageSlider_91", name:"noname", visible:"false", x:"0", y:"71", width:"825", height:"454", mode:"slide", normalImage:"1777533827163.jpg", link:"address|_blank|", normalImage1:"1777533827200.jpg", link1:"address|_blank|", normalImage2:"1777533827225.jpg", link2:"address|_blank|"},
+[13,{type:"imageSlider", id:"ImageSlider_91", name:"noname", visible:"false", x:"0", y:"71", width:"825", height:"454", mode:"slide", normalImage:"1777533827163.jpg", link:"address|_blank|", normalImage1:"1777533827200.jpg", link1:"address|_blank|"},
 {type:"image", id:"Image_291", name:"noname", visible:"true", x:"0", y:"71", width:"822", height:"454", opacity:"100", normalImage:"1777533722856.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_291", name:"액션Image_291", dispatcher:"Image_291", event:"onRelease", target:"ImageSlider_91", action:"toggleVisible"}
 ],
@@ -86,7 +86,7 @@ var eBookData = {
 ],
 [41,{type:"video", id:"Video_40", name:"noname", visible:"true", x:"0", y:"685", width:"825", height:"477", normalImage:"1777535079800.jpg", movieURL:"1777536495876.mp4"}
 ],
-[42,{type:"imageSlider", id:"ImageSlider_94", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"430", mode:"slide", normalImage:"1777535556564.jpg", link:"address|_blank|", normalImage1:"1777535556611.jpg", link1:"address|_blank|", normalImage2:"1777535556656.jpg", link2:"address|_blank|"}
+[42,{type:"imageSlider", id:"ImageSlider_94", name:"noname", visible:"true", x:"0", y:"0", width:"825", height:"430", mode:"slide", normalImage:"1777535556564.jpg", link:"address|_blank|", normalImage1:"1777538472889.jpg", link1:"address|_blank|", normalImage2:"1777535556656.jpg", link2:"address|_blank|"}
 ],
 [44,{type:"imageSlider", id:"ImageSlider_95", name:"noname", visible:"true", x:"0", y:"72", width:"825", height:"475", mode:"slide", normalImage:"1777535586706.jpg", link:"address|_blank|", normalImage1:"1777535586749.jpg", link1:"address|_blank|", normalImage2:"1777535586783.jpg", link2:"address|_blank|", normalImage3:"1777535586813.jpg", link3:"address|_blank|"}
 ],
@@ -103,6 +103,13 @@ var eBookData = {
 [50,{type:"imageSlider", id:"ImageSlider_98", name:"noname", visible:"false", x:"0", y:"0", width:"724", height:"414", mode:"slide", normalImage:"1777535891397.jpg", link:"address|_blank|", normalImage1:"1777535891435.jpg", link1:"address|_blank|", normalImage2:"1777535891466.jpg", link2:"address|_blank|"},
 {type:"image", id:"Image_298", name:"noname", visible:"true", x:"0", y:"0", width:"724", height:"414", opacity:"100", normalImage:"1777533722856.png", rolloverImage:"", link:""},
 {type:"action", id:"Action_Image_298", name:"액션Image_298", dispatcher:"Image_298", event:"onRelease", target:"ImageSlider_98", action:"toggleVisible"}
+],
+[51,{type:"image", id:"Image_299", name:"noname", visible:"true", x:"176", y:"197", width:"99", height:"98", opacity:"100", normalImage:"1777539289098.jpg", rolloverImage:"", link:""},
+{type:"image", id:"Image_300", name:"noname", visible:"true", x:"542", y:"198", width:"99", height:"98", opacity:"100", normalImage:"1777539289098.jpg", rolloverImage:"", link:""},
+{type:"image", id:"Image_301", name:"noname", visible:"true", x:"541", y:"185", width:"72", height:"30", opacity:"100", normalImage:"1777539289098.jpg", rolloverImage:"", link:""},
+{type:"image", id:"Image_302", name:"noname", visible:"true", x:"206", y:"189", width:"72", height:"30", opacity:"100", normalImage:"1777539289098.jpg", rolloverImage:"", link:""},
+{type:"image", id:"Image_303", name:"noname", visible:"true", x:"591", y:"206", width:"114", height:"390", opacity:"100", normalImage:"1777539382892.gif", rolloverImage:"", link:""},
+{type:"image", id:"Image_304", name:"noname", visible:"true", x:"109", y:"207", width:"114", height:"390", opacity:"100", normalImage:"1777539408432.gif", rolloverImage:"", link:""}
 ],
 [55,{type:"image", id:"Image_285", name:"noname", visible:"true", x:"309", y:"40", width:"477", height:"485", opacity:"100", normalImage:"1777532663300.gif", rolloverImage:"", link:""}
 ],
