@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:278839,
+	RANDOM:971430,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -82,7 +82,10 @@ var eBookData = {
 {type:"image", id:"Image_280", name:"noname", visible:"true", x:"333", y:"504", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122780000212"},
 {type:"image", id:"Image_281", name:"noname", visible:"true", x:"645", y:"776", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122780400007"}
 ],
-[36,{type:"image", id:"Image_282", name:"noname", visible:"true", x:"494", y:"519", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122781100008"}
+[36,{type:"image", id:"Image_282", name:"noname", visible:"true", x:"494", y:"519", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122781100008"},
+{type:"image", id:"Image_305", name:"noname", visible:"true", x:"154", y:"924", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122780000218"}
+],
+[37,{type:"image", id:"Image_306", name:"noname", visible:"true", x:"211", y:"399", width:"95", height:"98", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.jdcdutyfree.com/mall/product/product_Detail.do?goosCd=1122780000186"}
 ],
 [41,{type:"video", id:"Video_40", name:"noname", visible:"true", x:"0", y:"685", width:"825", height:"477", normalImage:"1777535079800.jpg", movieURL:"1777536495876.mp4"}
 ],
@@ -115,10 +118,6 @@ var eBookData = {
 ],
 [57,{type:"image", id:"Image_286", name:"noname", visible:"true", x:"286", y:"679", width:"514", height:"487", opacity:"100", normalImage:"1777532717031.gif", rolloverImage:"", link:""},
 {type:"image", id:"Image_287", name:"noname", visible:"true", x:"71", y:"915", width:"226", height:"145", opacity:"100", normalImage:"1752037953945.png", rolloverImage:"", link:"address|_blank|https://www.ultari.go.kr/site/board/data/nv_refRoomView.do?firstIndex=&currentPageNo=1&recordCountPerPage=10&p_orderByRdcnt=&bbsCode=00000052&bsnsCode=0000007N&nttSn=7&p_ctgryCodeNull=&p_registDtSt=&p_registDtEd=&p_bbsCode=&p_ctgryCode=&p_searchKeyWord=%EB%B9%84%EB%B0%80%EC%9C%A0%EC%A7%80"}
-],
-[64,{type:"imageSlider", id:"ImageSlider_89", name:"noname", visible:"true", x:"0", y:"933", width:"731", height:"354", mode:"slide", normalImage:"1775014362071.jpg", link:"address|_blank|", normalImage1:"1775014362113.jpg", link1:"address|_blank|", normalImage2:"1775014362146.jpg", link2:"address|_blank|", normalImage3:"1775014362182.jpg", link3:"address|_blank|", normalImage4:"1775014362219.jpg", link4:"address|_blank|"}
-],
-[65,{type:"imageSlider", id:"ImageSlider_90", name:"noname", visible:"true", x:"99", y:"830", width:"728", height:"456", mode:"slide", normalImage:"1775014448339.jpg", link:"address|_blank|", normalImage1:"1775014448385.jpg", link1:"address|_blank|", normalImage2:"1775014448427.jpg", link2:"address|_blank|"}
 ],
 [67,{type:"image", id:"Image_159", name:"noname", visible:"true", x:"211", y:"783", width:"191", height:"79", opacity:"100", normalImage:"1764655817712.png", rolloverImage:"", link:"address|_blank|https://www.jdcenter.com/ebook/202604/index.html"}
 ],
