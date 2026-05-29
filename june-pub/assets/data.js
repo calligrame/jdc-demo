@@ -24,7 +24,7 @@ var eBookData = {
 	pagearea:true,
 	pagesound:"sound1",
 	intro:"basic",
-	RANDOM:542550,
+	RANDOM:761192,
 	
 	
 	bookList : [ /** 이전호 목록 */
@@ -66,10 +66,10 @@ var eBookData = {
 [11,{type:"youtube", id:"Youtube_53", name:"noname", visible:"true", x:"0", y:"265", width:"825", height:"469", youtubeURL:"https://youtu.be/wUgFylhpJnk?si=UUQMrFKb3uoFrQCr"}
 ],
 [13,{type:"image", id:"Image_325", name:"noname", visible:"true", x:"0", y:"71", width:"822", height:"522", opacity:"100", normalImage:"1780014023599.png", rolloverImage:"", link:""},
-{type:"imageSlider", id:"ImageSlider_99", name:"noname", visible:"true", x:"0", y:"72", width:"825", height:"522", mode:"slide", normalImage:"1780014570505.jpg", link:"address|_blank|", normalImage1:"1780014570867.jpg", link1:"address|_blank|", normalImage2:"1780014570951.jpg", link2:"address|_blank|", normalImage3:"1780014570991.jpg", link3:"address|_blank|", normalImage4:"1780014571027.jpg", link4:"address|_blank|", normalImage5:"1780014571069.jpg", link5:"address|_blank|", normalImage6:"1780014571106.jpg", link6:"address|_blank|", normalImage7:"1780014571138.jpg", link7:"address|_blank|", normalImage8:"1780014571160.jpg", link8:"address|_blank|"}
+{type:"imageSlider", id:"ImageSlider_99", name:"noname", visible:"true", x:"0", y:"72", width:"825", height:"522", mode:"slide", normalImage:"1780014570505.jpg", link:"address|_blank|", normalImage1:"1780014570867.jpg", link1:"address|_blank|", normalImage2:"1780014570951.jpg", link2:"address|_blank|", normalImage3:"1780014571106.jpg", link3:"address|_blank|", normalImage4:"1780014571138.jpg", link4:"address|_blank|", normalImage5:"1780014571160.jpg", link5:"address|_blank|"}
 ],
 [15,{type:"image", id:"Image_327", name:"noname", visible:"true", x:"102", y:"0", width:"719", height:"507", opacity:"100", normalImage:"1780014062429.png", rolloverImage:"", link:""},
-{type:"imageSlider", id:"ImageSlider_100", name:"noname", visible:"true", x:"99", y:"0", width:"728", height:"510", mode:"slide", normalImage:"1780014889134.jpg", link:"address|_blank|", normalImage1:"1780014889166.jpg", link1:"address|_blank|", normalImage2:"1780014889186.jpg", link2:"address|_blank|", normalImage3:"1780014889222.jpg", link3:"address|_blank|", normalImage4:"1780014889245.jpg", link4:"address|_blank|", normalImage5:"1780014889279.jpg", link5:"address|_blank|", normalImage6:"1780014889309.jpg", link6:"address|_blank|", normalImage7:"1780014889337.jpg", link7:"address|_blank|", normalImage8:"1780014889358.jpg", link8:"address|_blank|", normalImage9:"1780014889394.jpg", link9:"address|_blank|"}
+{type:"imageSlider", id:"ImageSlider_100", name:"noname", visible:"true", x:"99", y:"0", width:"728", height:"510", mode:"slide", normalImage:"1780014889134.jpg", link:"address|_blank|", normalImage1:"1780014889166.jpg", link1:"address|_blank|", normalImage2:"1780014889186.jpg", link2:"address|_blank|", normalImage3:"1780014889279.jpg", link3:"address|_blank|", normalImage4:"1780014889309.jpg", link4:"address|_blank|", normalImage5:"1780014889337.jpg", link5:"address|_blank|", normalImage6:"1780014889358.jpg", link6:"address|_blank|", normalImage7:"1780014889394.jpg", link7:"address|_blank|"}
 ],
 [16,{type:"image", id:"Image_316", name:"noname", visible:"true", x:"70", y:"814", width:"667", height:"372", opacity:"100", normalImage:"1779976531382.gif", rolloverImage:"", link:""}
 ],
